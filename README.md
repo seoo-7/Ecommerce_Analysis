@@ -6,10 +6,10 @@ This project presents a complete end-to-end solution for analyzing e‑commerce 
 
 ## 📊 Project Highlights
 
-- **Data Source**: Public `sales_orders` dataset representing online supermarket transactions.
+- **Data Source**: [Public `sales_orders` dataset representing online supermarket transactions.](https://www.kaggle.com/datasets/anandku79/kpidashboard)
 - **Tech Stack**:  
   - SQL (analytical queries, CTEs, LOD logic)  
-  - Power BI / Tableau / any BI tool (for dashboard visualization)
+  - Power BI (for dashboard visualization)
 
 ---
 
