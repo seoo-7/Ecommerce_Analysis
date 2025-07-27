@@ -56,13 +56,4 @@ This project presents a complete end-to-end solution for analyzing e‑commerce 
 - `LAG()` and `DATEADD()` for period-over-period comparisons  
 - Parameterized filters for flexibility (e.g., dynamic Top N or date ranges)
 
----
-
-## 🧠 What You’ll Learn
-
-- How to structure reusable SQL queries for dashboard-ready KPIs  
-- How to compute fixed-level metrics across multiple granularities  
-- How to break down performance by customer and product dimensions  
-- How to visualize operational trade-offs like discounts vs. profitability  
-
 
